@@ -16,6 +16,9 @@ Employee attrition is one of the most costly challenges for organizations. This 
 - 📈 **Deliver actionable insights** for HR decision-makers
 
 ---
+## Preview
+
+![Project Preview](docs/preview.png)
 
 ## ✨ Key Features
 
